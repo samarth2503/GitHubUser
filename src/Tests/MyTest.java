@@ -6,6 +6,7 @@ public class MyTest {
 	{
 		System.out.println("Test2....");
 		int age = 25;
+		String city = "Mumbai";
 	}
 
 }
