@@ -9,7 +9,7 @@ public class ClassicPage {
 		int m = n+n1;
 		System.out.println(m);
 
-
+		int sal = 12;
 	}
 
 }
