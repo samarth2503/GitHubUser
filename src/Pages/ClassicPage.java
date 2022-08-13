@@ -8,6 +8,8 @@ public class ClassicPage {
 		int n1 =20;
 		int m = n+n1;
 		System.out.println(m);
+		
+		int sal = 12;
 
 	}
 
