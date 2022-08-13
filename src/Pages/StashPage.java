@@ -8,6 +8,8 @@ public class StashPage {
 		System.out.println(nameD2);
 		int m2 = 34;
 		System.out.println("M2 is "+m2);
+		
+		System.out.println("Samarth");
 
 	}
 
